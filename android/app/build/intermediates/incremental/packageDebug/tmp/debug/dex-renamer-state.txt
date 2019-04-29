@@ -1,0 +1,4 @@
+#Wed Apr 24 16:21:49 IST 2019
+base.0=/home/accevis/ReactApp/SafetyProject/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
